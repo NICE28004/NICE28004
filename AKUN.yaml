@@ -1,4 +1,4 @@
-proxies:
+.proxies:
   - {name: AMS(nWS2), server: 104.17.3.81, port: 443, type: vmess, uuid: 4f93b2bb-3e8e-4e78-a1d0-45b7019d7246, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: sgm1ray.serverssh.net, network: ws, ws-opts: {path: /serverssh.net, headers: {Host: sgm1ray.serverssh.net}}}
   
   - {name: Jagoan4-JAGOANSSH, server: 104.17.2.81, port: 443, type: vmess, uuid: e87327c9-da93-485d-ac48-05150d0ab114, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: sg4.vmes.xyz, network: ws, ws-opts: {path: /JAGOANSSH/, headers: {Host: sg4.vmes.xyz}}}
